@@ -80,7 +80,7 @@ body {
   transition: opacity .2s;
 }
 
-/* Modify the appearance of the slider thumb */
+
 .seek_slider::-webkit-slider-thumb, .volume_slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   -moz-appearance: none;

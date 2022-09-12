@@ -39,6 +39,36 @@ let track_list = [
     image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
   },
+  {
+    name: "Siesta",
+    artist: "Jahzzar",
+    image: "https://freemusicarchive.org/image/?file=images%2Falbums%2FJahzzar_-_Travellers_Guide_-_20120326162547357.jpg&width=290&height=290&type=image",
+    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Jahzzar/Travellers_Guide_Excerpt/Jahzzar_-_05_-_Siesta.mp3",
+  },
+  {
+    name: "Frozen Egg",
+    artist: "Lame Drivers",
+    image: "https://freemusicarchive.org/image/?file=images%2Fartists%2FLame_Drivers_-_20100102171426680.jpg&width=290&height=290&type=image",
+    path:"https://files.freemusicarchive.org/storage-freemusicarchive-org/music/WFMU/Lame_Drivers/Live_on_WFMUs_Burn_It_Down_With_Nate_K_-_October_11_2015/Lame_Drivers_-_01_-_This_Pattern.mp3",
+  },
+  {
+    name: "Melancholy_Lover",
+    artist: "The Rope River Blues Band",
+    image: "https://freemusicarchive.org/image/?file=images%2Fartists%2FThe_Rope_River_Blues_Band_-_20100813234852671.JPG&width=290&height=290&type=image",
+    path: "https:\/\/files.freemusicarchive.org\/storage-freemusicarchive-org\/music\/no_curator\/Rope_River_Blues_Band\/Adult_Contemporaries\/Rope_River_Blues_Band_-_01_-_Melancholy_Lover.mp3",
+  },
+  {
+    name: "This Love\u0027s Got to Change",
+    artist: "Black Math",
+    image: "https://freemusicarchive.org/image/?file=images%2F…0122151057551.jpg&width=290&height=290&type=image",
+    path: "https:\/\/files.freemusicarchive.org\/storage-freemusicarchive-org\/music\/no_curator\/Black_Math\/Phantom_Power\/Black_Math_-_01_-_This_Loves_Got_to_Change.mp3",
+  },
+  {
+    name: "physical features",
+    artist: "Windom Earle",
+    image: "https://freemusicarchive.org/image/?file=images%2Fartists%2FThe_Windom_Earle_All_Stars_-_20110804153846232.jpg&width=290&height=290&type=image",
+    path: "https:\/\/files.freemusicarchive.org\/storage-freemusicarchive-org\/music\/WFMU\/The_Windom_Earle_All_Stars\/A_Series_of_Minor_Personal_Tragedies\/The_Windom_Earle_All_Stars_-_03_-_physical_features.mp3",
+  },
 ];
 
 function random_bg_color() {
